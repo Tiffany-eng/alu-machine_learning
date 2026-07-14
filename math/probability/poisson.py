@@ -3,6 +3,8 @@
     Poisson distribution
     that represents a poisson distribution
 '''
+
+
 class Poisson:
     '''
         Class Poisson that represents a
